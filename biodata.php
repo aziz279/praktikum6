@@ -13,19 +13,19 @@ echo"DATA DIRI
 <td width='50'>&nbsp;</td>
 <td width='200' height='5'>NAMA LENGKAP</td>
 <td>:</td>
-<td width='500'> RIZKI ROMADHONI SANDY</td>
+<td width='500'> MUHAMMAD ABDUL AZIZ MASYHURI</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td>NAMA PANGGILAN</td>
 <td>:</td>
-<td>SANDY</td>
+<td>AZIZ</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 <td> TTL</td>
 <td> :</td>
-<td>KEDIRI, 19 NOVEMBER 2001</td>
+<td>PERAWANG, 27 SEPTEMBER 2001</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -37,7 +37,7 @@ echo"DATA DIRI
 <td>&nbsp;</td>
 <td> ALAMAT</td>
 <td>:</td>
-<td>KAB.KEDIRI KEC.PURWOASRI PROV.JAWATIMUR </td>
+<td>KAB.MADIUN KEC.JIWAN PROV.JAWATIMUR </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
